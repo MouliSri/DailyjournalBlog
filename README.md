@@ -1,0 +1,2 @@
+# DailyjournalBlog
+using EJS
